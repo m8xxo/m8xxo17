@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="m8xxo17" name="M8XXO REPO" version="0.0.1" provider-name="Max">
+	<extension point="xbmc.addon.repository" name="M8XXO REPO">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/m8xxo/m8xxo17/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/m8xxo/m8xxo17/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/m8xxo/m8xxo17/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Just the files that have been sent to me and requested as being uploaded.</summary>
+		<description lang="en">Just the files that have been sent to me and requested as being uploaded.</description>
+		<genre>devtools</genre>
+	</extension>
+</addon>
